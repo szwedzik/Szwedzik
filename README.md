@@ -22,4 +22,4 @@
 [Szwedzik](https://github.com/szwedzik)
 Last manual update: 02/06/2022
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](github-snake.svg)

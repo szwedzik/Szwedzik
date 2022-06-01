@@ -9,12 +9,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: generate github-contribution-grid-snake.svg
       - uses: Platane/snk/svg-only@v2
         with:
+          filename: snake.svg
           github_user_name: ${{ github.repository_owner }}
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark

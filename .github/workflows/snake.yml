@@ -15,5 +15,5 @@ jobs:
           filename: snake.svg
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            snake.svg
+            snake-dark.svg?palette=github-dark

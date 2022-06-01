@@ -21,7 +21,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_traffic: yes
           plugin_languages: yes
-           plugin_habits: yes
+          plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14 
           plugin_habits_facts: yes
@@ -32,8 +32,3 @@ jobs:
           plugin_topics_limit: 15
           config_timezone: Europe/Warsaw
           config_padding: 10%
-name: generate-snake-game-from-github-contribution-grid
-  - uses: Platane/snk@v2.0.0-rc.2
-    with:
-      github_user_name:  szwedzik
-      palette: a preset of color, one of [github, github-dark, github-light]

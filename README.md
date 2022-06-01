@@ -7,6 +7,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
+![](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+
 |![](https://github.com/szwedzik/Szwedzik/blob/main/metrics.svg)|
 |---|
 
@@ -21,6 +26,3 @@
 
 [Szwedzik](https://github.com/szwedzik)
 Last manual update: 02/06/2022
-
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)

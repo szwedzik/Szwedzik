@@ -9,6 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: generate snake.svg
       - uses: Platane/snk/svg-only@v2
         with:
           filename: snake.svg

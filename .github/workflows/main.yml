@@ -33,3 +33,20 @@ jobs:
           plugin_topics_limit: 15
           config_timezone: Europe/Warsaw
           config_padding: 10%
+
+      - name: Personal metrics (additional)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.additional.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          config_timezone: Europe/Warsaw
+#           config_order: languages, pagespeed, habits, stargazers, stars
+          config_padding: 10%
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_stargazers: yes
+          plugin_stars: yes
+          plugin_stars_limit: 3

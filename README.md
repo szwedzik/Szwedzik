@@ -1,28 +1,81 @@
-
 ![](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <h1 align="center">Hi, I'm Paweł <img height="40" src="https://emoji.gg/assets/emoji/4809-minecraft-cookie.png"></h1>
+<p align="center">
+  <a href="https://github.com/szwedzik" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>
+  <a href="#" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%234B275F.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <br/>
+  
+  <span align="center">
+    <img src="https://komarev.com/ghpvc/?username=szwedzik&style=for-the-badge" />
+  </span>
+  
+</p>
 
-![](https://komarev.com/ghpvc/?username=szwedzik)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p>
+  <h3> Few words about Me</h3>
+  <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
+  
+- Computer Sience student & Full-Stack developer.
+  
+- Mainly web-developer whos enjoy improving his skills in other languages as well.
+  
+- I'm a gamer, my favourite game genres are: **fps, mmo-rpg, strategy**
+  
+- 5+ years of non-commercial expirience in programming.
+
+- Languages spoken: <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/pl.svg"> (native) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/us.svg"> (B2+ uncertified) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/se.svg"> (second language)
 
 
-![](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+</p>
 
+---
 
 |![](https://github.com/szwedzik/Szwedzik/blob/main/metrics.svg)|![](https://github.com/szwedzik/Szwedzik/blob/main/metrics.additional.svg)
 |---|---|
 
-| <h3 align='center' style='text-decoration: underline'> <u> Technologies </u> </h3> <br> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/><img alt='Mathworks' src="https://img.shields.io/badge/Mathworks%20-%230076A8.svg?&style=for-the-badge&logo=Mathworks&logoColor=white"/><img alt='SQLite' src="https://img.shields.io/badge/sqlite%20-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> <br> <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/><img alt="Apache Spark" src="https://img.shields.io/badge/apachespark%20-%23E25A1C.svg?&style=for-the-badge&logo=Apache-Spark&logoColor=white"/> <br> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/><img alt="Google Colab" src="https://img.shields.io/badge/googlecolab%20-%23F9AB00.svg?&style=for-the-badge&logo=Google-Colab&logoColor=white"> <br><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/><img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <br> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> <br> <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <br> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/> <br> <img alt="Google Search Console" src="https://img.shields.io/badge/googlesearchconsole%20-%23458CF5?style=for-the-badge&logo=Google-Search-Console&logoColor=white"/><img alt="Google Analytics" src="https://img.shields.io/badge/googleanalytics%20-%23E37400?style=for-the-badge&logo=Google-Analytics&logoColor=white"/> <br> <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/><img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/> <br> <img alt="Sublime Text" src="https://img.shields.io/badge/sublimetext%20-%23FF9800?style=for-the-badge&logo=Sublime-Text&logoColor=white"/><img alt="Asana" src="https://img.shields.io/badge/asana%20-%23273347?style=for-the-badge&logo=Asana&logoColor=white"/><br><br>
-|---|
+<div align="center">
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/szwedzik" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-</p>
+  ![](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+  ![](https://raw.githubusercontent.com/szwedzik/szwedzik/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-## Past Projects
+</div>
 
+<div align="center">
+<h3 align='center' style='text-decoration: underline'> <u> Technologies </u> </h3> <br> 
+  <p>
+    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
+    <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linux-%234B275F.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Windows-%231572B6.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+    
+  </p>
+</div>
+  
+---
 [Szwedzik](https://github.com/szwedzik)
-Last manual update: 02/06/2022
+<br />
+`Last update: 02/06/2022`

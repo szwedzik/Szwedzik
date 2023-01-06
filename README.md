@@ -1,5 +1,5 @@
 ![](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-<h1 align="center">Hi, I'm Paweł <img height="40" src="https://emoji.gg/assets/emoji/4809-minecraft-cookie.png"></h1>
+<h1 align="center">Hi, I'm Szwedzik <img height="40" src="https://emoji.gg/assets/emoji/4809-minecraft-cookie.png"></h1>
 <p align="center">
   <a href="https://github.com/szwedzik" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://steamcommunity.com/id/ezi2k/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>

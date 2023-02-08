@@ -25,7 +25,7 @@
   
 - 5+ years of non-commercial expirience in programming.
 
-- Languages spoken: <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/pl.svg"> (native) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/us.svg"> (B2+ uncertified) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/se.svg"> (second language)
+- Languages spoken: <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/pl.svg"> (native) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/us.svg"> (C1 uncertified) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/se.svg"> (second language)
 
 
 

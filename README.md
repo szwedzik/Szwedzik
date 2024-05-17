@@ -23,7 +23,7 @@
   
 - I'm a gamer, my favourite game genres are: **fps, mmo-rpg, strategy**
   
-- 5+ years of non-commercial expirience in programming.
+- 10+ years of non-commercial expirience in programming.
 
 - Languages spoken: <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/pl.svg"> (native) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/us.svg"> (C2 uncertified) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/se.svg"> (second language)
 

@@ -1,5 +1,3 @@
-name: snake game from a github user contributions graph
-
 on:
   # run automatically every 8 hours
   schedule: [{cron: "0 */8 * * *"}]
@@ -21,7 +19,7 @@ jobs:
 
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
